@@ -8,11 +8,11 @@
 
 ## GIỚI THIỆU MÔN HỌC 
 
-- Tên môn học: Quản lí dự án công nghệ thông tin
-- Mã môn học: IS208
-- Mã lớp: IS208.P21.1
-- Năm học: HK2 (2024-2025)
-- Giảng viên hướng dẫn: Tạ Việt Phương
+- **Tên môn học:** Quản lí dự án công nghệ thông tin
+- **Mã môn học:** IS208
+- **Mã lớp:** IS208.P21.1
+- **Năm học:** HK2 (2024-2025)
+- **Giảng viên hướng dẫn:** Tạ Việt Phương
 
 
 ## THÀNH VIÊN NHÓM 
