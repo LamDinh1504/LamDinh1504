@@ -1,19 +1,40 @@
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dinvanlam1504) 
+<h1 align="center">QUẢN LÝ DỰ ÁN CÔNG NGHỆ THÔNG TIN</h1>
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=LamDinh1504&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LamDinh1504&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LamDinh1504&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GIỚI THIỆU MÔN HỌC 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- Tên môn học: Quản lí dự án công nghệ thông tin
+- Mã môn học: IS208
+- Mã lớp: IS208.P21.1
+- Năm học: HK2 (2024-2025)
+- Giảng viên hướng dẫn: Tạ Việt Phương
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=LamDinh1504&icon=0&color=0)](https://visitcount.itsvg.in)
+## THÀNH VIÊN NHÓM 
+
+|Họ và tên|MSSV|Chức vụ|Github|Email|
+|:---|:---|:---|:---|:---|
+|Nguyễn Hữu Dũng|23520332|Nhóm trưởng||23520332@gm.uit.edu.vn|
+|Đinh Văn Lâm|23520829|Thành viên||23520829@gm.uit.edu.vn|
+|Lê Thanh Hùng|23520562|Thành viên||23520562@gm.uit.edu.vn|
+|Thái Văn Vũ|23521816|Thành viên||23521816@gm.uit.edu.vn|
+
+
+## ĐỀ TÀI NGHIÊU CỨU
+
+## GIỚI THIỆU ĐỀ TÀI 
+
+## TIẾN ĐỘ NHÓM 
+
+
+
+
+
+
+
+   
